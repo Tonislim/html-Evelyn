@@ -1,0 +1,43 @@
+header{
+    background-color: brown;
+    text-align: center;
+    font-size: 200%;
+}
+aside h2{
+    color: forestgreen;
+    background-color: darkgrey;
+}
+div1{
+    border: 20px 20px 20px 20px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    align-items: center;
+}
+footer{
+    background-color: crimson;
+    text-align: center;
+    font-size: 200%
+
+}
+nav {
+    display: block;
+    
+      
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+}
+
+header{
+    border-collapse: separate;
+    border-spacing: 15px;
+}
+
+*(color:blue;  )
+
+
+
+
